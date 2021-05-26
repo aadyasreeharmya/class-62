@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	text-decoration-color: crimson;
+}
+
+#logo {
+	width: 850px;
+	height: 350px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	transition: transform .2s;
+}
+
+img:hover {
+	transform: scale(0.9);
+}
+
+#mycarousel {
+	background-color: aqua;
+}
+
+class1a {
+	display: inline;
+}
+
+#mycarousel img {
+	height: 150px;
+	margin-top: 25px;
+}
+
+.casousel-inner p{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: cornflowerblue;
+	font-size:300px;
+}
